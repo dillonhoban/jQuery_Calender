@@ -4,7 +4,11 @@ A dynamic calendar for Homework 5 powered by jQuery
 ![App image](Assets/images/screenshot_main_app.jpg)
 
 ## Description 
-The challenge was to build a simple and functional workday calender. I was able to get the bones of the app built but failed to add the full functionality to my program. I hope to continue updating the project and figure out how to solve the problems I have encountered. 
+The challenge was to build a simple and functional workday calender. The data added to each textarea was to be saved to local storage and persist upon reload. Additionally, the color of each text area was required to change upon each hour. 
+
+## Local Storage
+
+![Local Storage image](Assets/images/screenshot/../screenshot_local_storage.jpg)
 
 ## Deployment
 Click the link [here](https://dillonhoban.github.io/jQuery_Calender/) to check out my site in your browser.
